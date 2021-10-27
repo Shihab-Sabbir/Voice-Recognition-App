@@ -1,3 +1,9 @@
+# Deployed on https://srs-calculator.web.app/
+
+Features : Voice to Text conversion , Follow Voice Command like : Speak "Reset" for Resetting , Speak "Stop" for Stop convertion , Speak "Open Google/Youtube etc.." for start opening the said sites , Speak "Change Background Color to (any color name)" for change background color , Speak "Reset Background Color " for Resetting background color etc.. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
