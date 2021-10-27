@@ -2,6 +2,9 @@
 
 Features : Voice to Text conversion , Follow Voice Command like : Speak "Reset" for Resetting , Speak "Stop" for Stop convertion , Speak "Open Google/Youtube etc.." for start opening the said sites , Speak "Change Background Color to (any color name)" for change background color , Speak "Reset Background Color " for Resetting background color etc.. 
 
+![voice 1](https://user-images.githubusercontent.com/92453657/139024508-381717d8-2921-4728-81f7-9dbd48ea36fb.PNG) ![voice 2](https://user-images.githubusercontent.com/92453657/139024535-9df9421a-4330-4b3a-bca9-ed2c636d5253.PNG) ![voice 3](https://user-images.githubusercontent.com/92453657/139024563-b24bafb3-e946-4d29-a5b1-065b05b67de4.PNG)
+
+
 
 
 # Getting Started with Create React App
